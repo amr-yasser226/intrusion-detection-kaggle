@@ -1,1 +1,2 @@
-*.csv text eol=lf
+*.csv filter=lfs diff=lfs merge=lfs -text
+Data/phase2_students_before_cleaning.csv filter=lfs diff=lfs merge=lfs -text
