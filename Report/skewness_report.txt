@@ -1,0 +1,44 @@
+Column: flow_time
+Skewness: 746.39
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: header_size
+Skewness: 89.64
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: packet_duration
+Skewness: 10.79
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: overall_rate
+Skewness: 22.38
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: src_rate
+Skewness: 22.38
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: dst_rate
+Skewness: 901.34
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: fin_packets
+Skewness: 3.42
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: urg_packets
+Skewness: 25.06
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: rst_packets
+Skewness: 13.17
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: max_value
+Skewness: 10.11
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
+Column: value_covariance
+Skewness: 100.02
+Status: Highly right-skewed. Consider log transformation.
+--------------------------------------------------
