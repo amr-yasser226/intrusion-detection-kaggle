@@ -1,0 +1,55 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# Cache directories (e.g., CatBoost temporary files)
+cache/
+catboost_info/tmp/
+
+# Notebook output exports
+*.nbconvert.ipynb
+
+# Sensitive environment files
+.env
+.env.*
+
+# Ignore LaTeX or Make artifacts
+*.aux
+*.out
+*.toc
+
+# Miscellaneous backups and swap files
+*.bak
+*.swp
+*~
